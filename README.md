@@ -1,3 +1,6 @@
+<img src="https://raw.github.com/rm-hull/raspberry-racket/master/logo_100px.png" 
+     alt="Logo" title="Raspberry Racket" align="right" />
+
 # Rasberry Racket
 
 _document work-in-progress_
