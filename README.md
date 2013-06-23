@@ -10,7 +10,7 @@ for the $25 Raspberry Pi. However the DrRacket environment fails to start:
     SIGSEGV SEGV_ACCERR SI_CODE 2 fault on 0x204f398
     Aborted
     
-The aim of this [Lisp of Summer Projects submission](http://lispinsummerprojects.org/) 
+The aim of this [Lisp in Summer Projects submission](http://lispinsummerprojects.org/) 
 is to get an up-to-date 5.3.x build compiled (with full build documentation) for the 
 Raspberry Pi with a working DrRacket GUI and push it back into the Raspbian distro.
 
