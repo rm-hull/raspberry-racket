@@ -21,10 +21,8 @@ Raspberry Pi with a working DrRacket GUI and push it back into the Raspbian dist
 
 The Raspberry Pi is based on the Broadcom 2708 Cortex ARM6 chipset; There are
 two mechanisms for building executables for the Raspberry Pi, either locally
-on a Pi itself (which will take approximately XX hours) or cross-compiling on
+on a Pi itself (which will take approximately 24 hours) or cross-compiling on
 a unix host. This guide will attempt to document both approaches.
-
-### Pre-requisites
 
 ### Building locally
 
@@ -35,4 +33,16 @@ a unix host. This guide will attempt to document both approaches.
     $ cd build
     $ ../configure
     $ make
+    $ make install
 
+### Cross compiling
+
+TODO
+
+### Notes / Observations / TODO
+
+* Cairo, Pango, GTK required
+* build tools required
+* Creating a .deb package
+* Uploading to raspbian.org
+* Slow...
